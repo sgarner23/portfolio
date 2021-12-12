@@ -15,7 +15,9 @@ const ProjectsCard = ({ data }) => {
                 <h3>{data.name}</h3>
                 <div className="project-image-container">
                   <img src={data.img1} alt="desktop image" className="img-1" />
-                  <img src={data.img2} alt="mobile image" className="img-2" />
+                  {data.img2 && (
+                    <img src={data.img2} alt="mobile image" className="img-2" />
+                  )}
                 </div>
                 <p className="description mt-3">{data.desc}</p>
                 <a
