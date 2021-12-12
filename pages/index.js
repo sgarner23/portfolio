@@ -20,8 +20,7 @@ export default function Home({ githubProfileData }) {
       <SEO
         data={{
           title: "Stephen Garner",
-          description:
-            "A passionate Full Stack Web Developer and Mobile App Developer.",
+          description: "A passionate Full Stack Web Developer",
           image:
             "https://media-exp1.licdn.com/dms/image/C5603AQGE0P-2tigOAA/profile-displayphoto-shrink_800_800/0/1574134801326?e=1645056000&v=beta&t=GG5iHEIFapGBrTtuwh7e4g8yqaBMPXTZ-uwuoPJPESQ",
           url: "stephen-garner.com",
