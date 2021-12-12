@@ -22,16 +22,15 @@ export default function Home({ githubProfileData }) {
           title: "Stephen Garner",
           description:
             "A passionate Full Stack Web Developer and Mobile App Developer.",
-          image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-          url: "https://developer-portfolio-1hanzla100.vercel.app",
+          image:
+            "https://media-exp1.licdn.com/dms/image/C5603AQGE0P-2tigOAA/profile-displayphoto-shrink_800_800/0/1574134801326?e=1645056000&v=beta&t=GG5iHEIFapGBrTtuwh7e4g8yqaBMPXTZ-uwuoPJPESQ",
+          url: "stephen-garner.com",
           keywords: [
-            "Hanzla",
-            "Hanzla Tauqeer",
-            "@1hanzla100",
-            "1hanzla100",
+            "Stephen",
+            "Stephen Garner",
+            "@sgarner23",
             "Portfolio",
-            "Hanzla Portfolio ",
-            "Hanzla Tauqeer Portfolio",
+            "Stephen Garner Portfolio",
             "web developer",
             "full stack",
             "full stack web developer",
