@@ -197,7 +197,7 @@ export const projects = [
     link: "https://www.youtube.com/watch?v=HciY595mDzE",
   },
   {
-    name: "Javascript Calculator",
+    name: "JavaScript Calculator",
     img1: "/img/icons/common/calculator.png",
     url: "https://js-calculator-sjjzm.ondigitalocean.app/",
     desc: "I wanted to put my JS logic skills to the test and build a calculator app. Users can perform all basic operations, clear the screen, and continue equations based on previous answer. Technologies used: Javascript for logic and DOM manipulation, CSS and CSS Grid, and HTML",
