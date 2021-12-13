@@ -185,16 +185,16 @@ export const projects = [
     url: "http://iou-tracker.stephen-garner.com/login",
     desc: "IOU Tracker is a fullstack CRUD small business invoicing app. I've watched family members and friends that own small businesses try tracking everything on paper and sticky notes scattered across their desk. IOU Tracker allows you to digitalize a log of all invoices to easily track, update, and reference. Technologies used: React, Context API for global state, Express, Node, Postgres, JWT for protected endpoints and user authentication, Bcrypt for password encryption, MassiveJS, Heroku, Axios, React Router Dom V6 for protected routes and routing, and CSS responsive design with media queries. Client code linked below, and server code available in my GitHub repos.",
     github: "https://github.com/sgarner23/iou-tracker-client",
-    link: "https://example.com",
+    link: "https://www.youtube.com/watch?v=IOuHeii0aU0&t=4s",
   },
   {
     name: "Dev Finder",
     img1: "/img/icons/common/dev-finder-mac.png",
     img2: "/img/icons/common/dev-finder-mobile.png",
-    url: "https://github-dev-finder.herokuapp.com/",
+    url: "https://dev-finder.stephen-garner.com/",
     desc: "Practiced working with public API's by pulling profile data from GitHub's REST API. User can search any GitHub username and see their profile information displayed on the card. I practiced CSS skills by making desktop, tablet, and mobile views. Technologies used: React, GitHub REST API, Styled Components to toggle light and dark mode, Axios, and media queries, Heroku for deployment.",
     github: "https://github.com/sgarner23/dev-searcher",
-    link: "https://example.com",
+    link: "https://www.youtube.com/watch?v=HciY595mDzE",
   },
   {
     name: "Javascript Calculator",
@@ -202,7 +202,7 @@ export const projects = [
     url: "https://js-calculator-sjjzm.ondigitalocean.app/",
     desc: "I wanted to put my JS logic skills to the test and build a calculator app. Users can perform all basic operations, clear the screen, and continue equations based on previous answer. Technologies used: Javascript for logic and DOM manipulation, CSS and CSS Grid, and HTML",
     github: "https://github.com/sgarner23/JS-calculator",
-    link: "https://example.com",
+    link: "https://www.youtube.com/watch?v=DMuQDXZFsmg",
   },
 ];
 
