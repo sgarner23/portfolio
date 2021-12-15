@@ -196,6 +196,7 @@ export const projects = [
     github: "https://github.com/sgarner23/dev-searcher",
     link: "https://www.youtube.com/watch?v=HciY595mDzE",
   },
+
   {
     name: "JavaScript Calculator",
     img1: "/img/icons/common/calculator.png",
@@ -203,6 +204,12 @@ export const projects = [
     desc: "I wanted to put my JS logic skills to the test and build a calculator app. Users can perform all basic operations, clear the screen, and continue equations based on previous answer. Technologies used: Javascript for logic and DOM manipulation, CSS and CSS Grid, and HTML",
     github: "https://github.com/sgarner23/JS-calculator",
     link: "https://www.youtube.com/watch?v=DMuQDXZFsmg",
+  },
+  {
+    name: "Webscraper",
+    img1: "https://media.istockphoto.com/vectors/coming-soon-lettering-coming-soon-for-promotion-advertisement-sale-vector-id1221240925?k=20&m=1221240925&s=612x612&w=0&h=HX77CIwJ34u7qUMpI_W5z4dDnEbHGv66mGXVTpIccv8=",
+    desc: "Currently working on an app to help me find a new apartment to move to. This app will allow users to login, save their search criteria, and then the server leverages the Puppeteer library to scrape apartment listings on the web and send an email to the user each day on new apartments that were listed within their criteria. Currently the server is able to fully scrape Craigslist for apartment listenings and return all new apartments listed. Excited to get this project fully running and deployed! You can check out my progress on Github",
+    github: "https://github.com/sgarner23/webscraper",
   },
 ];
 
