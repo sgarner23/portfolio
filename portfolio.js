@@ -77,10 +77,10 @@ export const skillsSection = {
       fontAwesomeClassname: "vscode-icons:file-type-sql",
     },
 
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "logos:aws",
-    },
+    // {
+    //   skillName: "aws",
+    //   fontAwesomeClassname: "logos:aws",
+    // },
 
     {
       skillName: "python",
